@@ -1,2 +1,6 @@
 env/
 Data/
+.vs/
+.ipynb_checkpoints/
+
+
